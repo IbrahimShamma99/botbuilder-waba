@@ -1,6 +1,6 @@
 {
   "name": "botbuilder-waba",
-  "description": "Bot Builder is a framework for building rich bots on virtually any platform.",
+  "description": "Connect Bot Framework into WhatsApp On Premise API",
   "version": "0.0.0",
   "license": "MIT",
   "keywords": [
@@ -10,11 +10,11 @@
     "chatbots"
   ],
   "bugs": {
-    "url": "https://github.com/Microsoft/botbuilder-js/issues"
+    "url": "https://github.com/IbrahimShamma99/botbuilder-waba/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/botbuilder-js.git"
+    "url": "https://github.com/IbrahimShamma99/botbuilder-waba.git"
   },
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
