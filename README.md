@@ -1,0 +1,1 @@
+# WhatsApp On Premise API Bot framework adapter
