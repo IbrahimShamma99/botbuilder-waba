@@ -1,7 +1,7 @@
 {
   "name": "botbuilder-waba",
   "description": "Connect Bot Framework into WhatsApp On Premise API",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "keywords": [
     "botbuilder",
