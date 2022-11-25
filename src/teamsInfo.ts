@@ -14,7 +14,7 @@ import {
     TeamsChannelData,
     TeamDetails,
     TurnContext
-} from 'botbuilder-core';
+} from './botbuilder-core';
 import { ConnectorClient, TeamsConnectorClient } from 'botframework-connector';
 
 import { BotFrameworkAdapter } from './botFrameworkAdapter';

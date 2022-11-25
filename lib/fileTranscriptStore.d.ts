@@ -1,4 +1,4 @@
-import { Activity, PagedResult, TranscriptInfo, TranscriptStore } from 'botbuilder-core';
+import { Activity, PagedResult, TranscriptInfo, TranscriptStore } from './botbuilder-core';
 /**
  * The file transcript store stores transcripts in file system with each activity as a file.
  *

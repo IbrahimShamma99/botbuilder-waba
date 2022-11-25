@@ -7,7 +7,7 @@
  */
 
 import { ChannelServiceHandler } from './channelServiceHandler';
-import { Activity, ConversationParameters, Transcript, AttachmentData } from 'botbuilder-core';
+import { Activity, ConversationParameters, Transcript, AttachmentData } from './botbuilder-core';
 import { WebRequest, WebResponse, StatusCodeError, StatusCodes } from './botFrameworkAdapter';
 
 export type RouteHandler = (request: WebRequest, response: WebResponse) => void;

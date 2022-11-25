@@ -5,7 +5,7 @@
  * Copyright (c) Microsoft Corporation. All rights reserved.
  * Licensed under the MIT License.
  */
-import { Activity, AttachmentData, ChannelAccount, ConversationParameters, ConversationResourceResponse, ConversationsResult, PagedMembersResult, ResourceResponse, Transcript } from 'botbuilder-core';
+import { Activity, AttachmentData, ChannelAccount, ConversationParameters, ConversationResourceResponse, ConversationsResult, PagedMembersResult, ResourceResponse, Transcript } from './botbuilder-core';
 import { AuthenticationConfiguration, ClaimsIdentity, ICredentialProvider } from 'botframework-connector';
 /**
  * The ChannelServiceHandler implements API to forward activity to a skill and

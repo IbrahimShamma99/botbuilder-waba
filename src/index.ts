@@ -26,4 +26,4 @@ export * from './streaming';
 export * from './teamsActivityHandler';
 export * from './teamsActivityHelpers';
 export * from './teamsInfo';
-export * from 'botbuilder-core';
+export * from './botbuilder-core';

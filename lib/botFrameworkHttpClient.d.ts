@@ -5,7 +5,7 @@
  * Copyright (c) Microsoft Corporation. All rights reserved.
  * Licensed under the MIT License.
  */
-import { Activity } from 'botbuilder-core';
+import { Activity } from './botbuilder-core';
 import { ICredentialProvider } from 'botframework-connector';
 import { InvokeResponse } from './botFrameworkAdapter';
 /**

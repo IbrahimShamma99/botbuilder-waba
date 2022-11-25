@@ -19,7 +19,7 @@ import {
     TokenPollingSettings,
     TokenPollingSettingsKey,
     TurnContext,
-} from 'botbuilder-core';
+} from './botbuilder-core';
 
 /**
  * Looks for OAuthCards in Activity attachments and takes action on them

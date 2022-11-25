@@ -5,7 +5,7 @@
  * Copyright (c) Microsoft Corporation. All rights reserved.
  * Licensed under the MIT License.
  */
-import { Activity, BotAdapter, ChannelAccount, ConversationReference, ConversationsResult, IUserTokenProvider, ResourceResponse, TokenResponse, TurnContext } from 'botbuilder-core';
+import { Activity, BotAdapter, ChannelAccount, ConversationReference, ConversationsResult, IUserTokenProvider, ResourceResponse, TokenResponse, TurnContext } from './botbuilder-core';
 import { AuthenticationConfiguration, ClaimsIdentity, ConnectorClient, AppCredentials, SimpleCredentialProvider, TokenApiClient, TokenStatus } from 'botframework-connector';
 import { INodeBuffer, INodeSocket, IReceiveRequest, NodeWebSocketFactoryBase, RequestHandler, StreamingResponse } from 'botframework-streaming';
 export declare enum StatusCodes {
